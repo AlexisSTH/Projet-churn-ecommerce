@@ -1,0 +1,5 @@
+payment_type_main,n_customers,n_churn,churn_rate,avg_monetary
+boleto,10307,10192,0.9888,148.1768
+credit_card,36119,35688,0.9881,170.2387
+debit_card,504,501,0.994,106.4662
+voucher,2049,2022,0.9868,132.8584

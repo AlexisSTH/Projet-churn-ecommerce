@@ -1,0 +1,6 @@
+customer_region,n_customers,n_churn,churn_rate
+Centro-Oeste,2840,2817,0.9919
+Nordeste,4853,4818,0.9928
+Norte,1030,1016,0.9864
+Sudeste,32989,32566,0.9872
+Sul,7267,7186,0.9889
